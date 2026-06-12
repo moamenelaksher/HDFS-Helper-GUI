@@ -42,8 +42,8 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tasnim00ahmed/HDFS-Web-Management-Console.git
-cd HDFS-Web-Management-Console
+git clone https://github.com/moamenelaksher/HDFS-Helper-GUI.git
+cd HDFS-Helper-GUI
 ```
 
 ### 2. Install Requirements
