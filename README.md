@@ -4,7 +4,7 @@ A modern, dark-themed web interface for managing and interacting with the Hadoop
 
 ---
 
-![HDFS Console Screenshot](screenshot.png)
+![HDFS Console Screenshot](Screenshot 2026-06-12 123318.png)
 
 ---
 
